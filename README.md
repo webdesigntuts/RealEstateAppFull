@@ -1,6 +1,6 @@
 # RealEstateAppFull
 Strapi Backend will be published soon.\
-Video Part_1: https://youtu.be/CQeV-i6Dp84
+Video Part_1: https://youtu.be/CQeV-i6Dp84\
 Video Part_2: --
 
 ## Install Node Modules
