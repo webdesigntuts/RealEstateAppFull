@@ -29,7 +29,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 
 ## Available Scripts (backend)
-### `npm run strapi develop`,
+### `npm run strapi develop`
+Open http://localhost:1337 to view it in your browser.\
 ### `npm run strapi start`
 ### `npm run strapi build`
 
