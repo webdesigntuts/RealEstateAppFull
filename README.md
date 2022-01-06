@@ -1,6 +1,6 @@
 # RealEstateAppFull
 Video Part_1: https://youtu.be/CQeV-i6Dp84 \
-Video Part_2: --\
+Video Part_2: https://youtu.be/OqDYLrY4HWA \
 You Have to create houses in strapi by yourself.
 
 ## Install Node Modules
