@@ -3,13 +3,13 @@ Strapi Backend will be published soon.\
 Video Part_1: https://youtu.be/CQeV-i6Dp84
 Video Part_2: --
 
-##install Node Modules
+## Install Node Modules
 cd frontend
 npm install
 cd backend
 npm install
 
-##Run The app As I did on Youtube
+## Run The app As I did on Youtube
 Go to frontend folder and type "npm run start" for the react-app
 Then go to the backend folder and type "npm run develop" for the strapi backend
 
