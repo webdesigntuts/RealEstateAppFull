@@ -7,7 +7,7 @@ Video Part_2: --
 cd frontend\
 npm install\
 cd backend\
-npm install\
+npm install
 
 ## Run The app As I did on Youtube
 Go to frontend folder and type "npm run start" for the react-app\
