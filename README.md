@@ -1,5 +1,5 @@
 # RealEstateAppFull
-Video Part_1: https://youtu.be/CQeV-i6Dp84\
+Video Part_1: https://youtu.be/CQeV-i6Dp84 \
 Video Part_2: --\
 You Have to create houses in strapi by yourself.
 
