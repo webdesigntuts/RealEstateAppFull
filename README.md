@@ -29,7 +29,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 
 ## Available Scripts (backend)
-### develop: "strapi develop",
-### start: "strapi start",
-### build: "strapi build",
-### strapi: "strapi"
+### `npm run strapi develop`,
+### `npm run strapi start`",
+### `npm run strapi build`,
+
+## Strapi Docs for deployment
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html
